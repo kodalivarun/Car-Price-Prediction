@@ -12,13 +12,14 @@ It contains 301 rows and 8 columns.
 The columns in the given dataset are as follows:
 
 1.car_name ==> Ex:ritz,swift,fiesta...etc 
-2.year ==> Manufacturing year of the car. Ex: 2007,2018...etc 
-3.selling_price(Dependent Column) ==> Present price of the car
-4.km_driven ==> Number of kilometers the car travelled since manufacture date
-5.fuel ==> i.e..Petrol,Diesel& CNG 
-6.seller_type ==> i.e..Dealer, Individual 
-7.transmission ==> i.e..Manual, Automatic 
-8.Owner ==> owner name already converted to 0,1,3   
+
+3.year ==> Manufacturing year of the car. Ex: 2007,2018...etc 
+4.selling_price(Dependent Column) ==> Present price of the car
+5.km_driven ==> Number of kilometers the car travelled since manufacture date
+6.fuel ==> i.e..Petrol,Diesel& CNG 
+7.seller_type ==> i.e..Dealer, Individual 
+8.transmission ==> i.e..Manual, Automatic 
+9.Owner ==> owner name already converted to 0,1,3   
 
 
 ## Topics to be Discussed: 
