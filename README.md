@@ -52,14 +52,24 @@ The columns in the given dataset are as follows:
 
 ## Topics to be Discussed: 
 
+
 1.Importing the necessary Libraries 
-2.Importing the Dataset 
-3.Exploring the Dataset
-4.Feature Engineering     
+
+3.Importing the Dataset 
+
+5.Exploring the Dataset
+
+7.Feature Engineering     
+
      -Handling the Missing Values     
      -Encoding(converting categorical data into numeric data
+     
 5.EDA 
-6.Splitting the Dataset 
-7.Evaluating the Model  
-8.Hyperparameter Tunning 
-9.Evaluating the model using Regression Metrics
+
+7.Splitting the Dataset 
+
+9.Evaluating the Model  
+
+11.Hyperparameter Tunning 
+
+13.Evaluating the model using Regression Metrics
