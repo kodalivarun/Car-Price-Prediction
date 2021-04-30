@@ -3,7 +3,7 @@
 
 ## The Problem Statement: 
 
-This Project is Based on the features of the car, we are going to predict the Car Selling_Price which is our Target Variable and also done End to End Implementation and Deployment of Car Price Prediction using python, flask, scikit-Learn, nltk, etc. on Heroku cloud platform.
+This Project is Based on the features of the car, we are going to predict the Car Selling_Price which is our Target Variable and also done End to End Implementation and Deployment of Car Price Prediction using python, flask, scikit-Learn, etc. on Heroku cloud platform.
 
 
 ## Description: 
@@ -23,27 +23,27 @@ The columns in the given dataset are as follows:
 
 2. year 
  
-Manufacturing year of the car. Ex: 2007,2018...etc 
+    Manufacturing year of the car. Ex: 2007,2018...etc 
 
 3. selling_price(Dependent Column) 
  
-   Present price of the car
+     Present price of the car
 
 4. km_driven 
  
-   Number of kilometers the car travelled since manufacture date
+    Number of kilometers the car travelled since manufacture date
 
 5. fuel 
 
-i.e..Petrol,Diesel& CNG 
+    i.e..Petrol,Diesel& CNG 
 
 6. seller_type
  
-  i.e..Dealer, Individual 
+    i.e..Dealer, Individual 
 
 7. transmission 
  
- i.e..Manual, Automatic 
+    i.e..Manual, Automatic 
 
 8. Owner 
     
@@ -58,7 +58,8 @@ i.e..Petrol,Diesel& CNG
 
 3.Exploring the Dataset
 
-4.Feature Engineering      
+4.Feature Engineering  
+    
    -Handling the Missing Values     
    -Encoding(converting categorical data into numeric data
 
